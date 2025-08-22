@@ -1,0 +1,5 @@
+python -m venv venv
+pip install rasa
+pip install -r .\requirements.txt
+/*no olvidar que hay que borrar manualmente la carpeta del entorno virtual "venv"
+ y los modelos generados para no sobrecargar a github*/
